@@ -1,6 +1,6 @@
-import {createMuyTheme} from '@material-ui/core/styles'
+import {createMuiTheme} from '@material-ui/core/styles'
 
-const theme = createMuyTheme ({
+const theme = createMuiTheme ({
     palette: {
         primary:{
             main: '#999'
